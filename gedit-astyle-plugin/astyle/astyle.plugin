@@ -1,0 +1,9 @@
+[Plugin]
+Loader=python3
+Module=__init__
+IAge=3
+Name=AStyle
+Description=Plugin for formatting source code
+Authors=B. Touchette, S. Stafford, and many others.
+Copyright=Copyright @ 2010-2019 The GNOME Project
+Website=http://github.com/PyroSamurai/gedit-astyle-plugin
