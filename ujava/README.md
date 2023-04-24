@@ -1,5 +1,5 @@
 # ujava
-A library which extends Java so it can mimic having the unsigned bytes
+A library which extends Java so it can mimic having unsigned bytes
 
 __License__: LGPLv3+
 

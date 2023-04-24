@@ -8,6 +8,6 @@ Gedit plugin for AStyle, a source code formatter.
 * If Gedit was open during installation you may have to close & reopen it for
  the plugin to show up in the plugin selection window.
 
-Gedit plugin for AStyle, a source code formatter. Became defunct after the move
- to gtk3, I attempted to keep it working but between the non-functional
- preferences menu and gEdit's crappy new UI. I can't recommend it.
+Note: This plugin became defunct after the move to gtk3, I attempted to keep it
+ working but between the non-functional preferences menu and gEdit's crappy
+ new UI. I don't recommend it.
